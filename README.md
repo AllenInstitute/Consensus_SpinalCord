@@ -4,9 +4,11 @@ To create a consensus atlas and nomenclature of spinal cord across species, we h
 
 ## CAP
 
+![image](https://github.com/user-attachments/assets/75081a7a-a3a1-4e47-9fa6-f5604587018b)
+
 To facilitate collaborative annotation with members of the spinal cord community we are using the Cell Annotation Platform ([CAP](https://celltype.info/)) to put our work into the hands of spinal cord researchers to provide feedback, thoughts and expert information about the consensus nomeclature system being proposed. 
 
-We have provided the Consensus Cross-species Taxonomy as an integrated object containing nuclei/cells from Human, Macaque and Mouse as a complete Atlas and various sib-groupings of taxonomic terms to provide a higher-resolution view of each Class of cell types.
+We have provided the Consensus Cross-species Taxonomy as an integrated object containing nuclei/cells from Human, Macaque and Mouse as a complete Atlas and various sub-groupings of taxonomic terms to provide a higher-resolution view for each Class of cell types.
 
 * [Cross-species Spinal Cord Atlas](https://celltype.info/project/598/dataset/1364)
    * [Cross-species Spinal Cord: GABAergic](https://celltype.info/project/598/dataset/1361)
