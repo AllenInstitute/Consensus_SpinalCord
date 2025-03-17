@@ -14,9 +14,9 @@ To facilitate collaborative annotation with members of the spinal cord community
 
 ## Data
 
-Single-nuclei RNA sequencing data is being hosted in [Allen Institute Taxonomy (AIT)](https://github.com/AllenInstitute/AllenInstituteTaxonomy) AnnData format on s3 in the exact format as presented on Cell Annotation Platform (CAP).
+Single-nuclei RNA sequencing data is being hosted in [Allen Institute Taxonomy (AIT)](https://github.com/AllenInstitute/AllenInstituteTaxonomy) AnnData format on s3 in the exact format as presented on Cell Annotation Platform (CAP). Each link below is a public s3 URL to download the respective dataset.
 
-* [Cross-species Spinal Cord Atlas](https://released-taxonomies-802451596237-us-west-2.s3.us-west-2.amazonaws.com/CAP/SpinalCord/AIBS_SpC_Consensus_AIT_CAP.h5ad)
+* [Cross-species Spinal Cord Atlas](https://released-taxonomies-802451596237-us-west-2.s3.us-west-2.amazonaws.com/CAP/SpinalCord/AIBS_SpC_Consensus_AIT_CAP.h5ad) (12GB)
    * [Cross-species Spinal Cord: GABAergic](https://released-taxonomies-802451596237-us-west-2.s3.us-west-2.amazonaws.com/CAP/SpinalCord/AIBS_SpC_Consensus_AIT_CAP_subset_GABAergic.h5ad)
    * [Cross-species Spinal Cord: Glutamatergic](https://released-taxonomies-802451596237-us-west-2.s3.us-west-2.amazonaws.com/CAP/SpinalCord/AIBS_SpC_Consensus_AIT_CAP_subset_Glutamatergic.h5ad)
    * [Cross-species Spinal Cord: Cholinergic](https://released-taxonomies-802451596237-us-west-2.s3.us-west-2.amazonaws.com/CAP/SpinalCord/AIBS_SpC_Consensus_AIT_CAP_subset_Cholinergic.h5ad)
