@@ -1,3 +1,60 @@
+# Trygve draft
+
+# Spinal Cord Cell Type Atlas: Annotation Coordination Hub
+
+This repository is a central resource for annotators collaborating on a cross-species consensus atlas of spinal cord cell types. Our collaborative goal is to integrate molecular, anatomical, and developmental insights to refine spinal cord cell type taxonomies in human, macaque, and mouse. 
+
+### Goals of the Annotation Effort:
+- **Establish** a consensus cell type nomenclature across species.
+- **Identify** robust marker genes (including transcription factors and neurotransmitters) and assess conservation across species.
+- **Clarify** neuronal diversity through anatomical and developmental characterization.
+- **Reorganize** and refine clusters into biologically meaningful hierarchical groups.
+
+
+### How to Participate:
+- **Annotate draft cross-species cell types** based on snRNA-seq in the [Cell Annotation Platform (CAP)](URL).
+- **Deadline April 16** when a virtual meeting will be held to discuss annotation progress.
+
+
+### Additional Resources:
+- **[CAP Orientation Videos](https://www.youtube.com/playlist?list=PLKRocgU6P8sIXJKtoyhBtOm38sMH1Z7gq)** led by Evan Biederstedt
+- **[Cell type metadata](URL)** including marker genes and anatomical distributions.
+- **[Spatial distributions](URL)** of consensus cell types in mouse spinal cord.
+
+---
+
+### Coordination Team:
+Trygve Bakken, Nelson Johansen, Matthew Schmitz, Yuan Gao, Zizhen Yao, Cindy van Velthoven (Allen Institute for Brain Science)
+
+---
+
+
+
+# Move to separate page for BICAN collaborators only
+
+## Data
+
+Sequencing data is in AIT (LINK) .h5ad format. ... EXPLAIN MORE ...
+
+### RNA-seq 
+
+Stored in s3 here ... FILL IN ...
+
+* Macaque: `manuscript/RNA/Macaque_harmonized_20250224.h5ad`
+* Human: `manuscript/RNA/Human_harmonized_20250224.h5ad`
+* Mouse: `manuscript/RNA/Mouse_harmonized_20250224.h5ad`
+* ConsensusTaxonomy: `manuscript/RNA/AIBS_SpC_consensus_taxonomy_harmonized_20250224.h5ad`
+* AllStudyIntegration: ``
+* External: `external/`
+* External (Re-Aligned): `external-realigned/`
+
+---
+
+
+
+
+
+
 ## Consensus Cross-species Spinal Cord Atlas
 
 To create a consensus atlas and nomenclature of spinal cord across species, we have performed 10X Multiome and RNA-seq across the entire Macaque and Mouse cord as well as Human cervical and lumbar segments.
