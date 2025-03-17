@@ -19,7 +19,7 @@ We have provided the Consensus Cross-species Taxonomy as an integrated object co
 
 The main [Cell Annotation Platform project](https://celltype.info/project/598) requires an invite to access. If you are interested please reach out to either Nelson Johansen (nelson.johansen@alleninstitute.org) or Trygve Bakken (trygveb@alleninstitute.org).
 
-## Allen Institute Taxonomy data files
+## Allen Institute Taxonomy (AIT) data files
 
 Single-nuclei RNA sequencing data is being hosted in [Allen Institute Taxonomy (AIT)](https://github.com/AllenInstitute/AllenInstituteTaxonomy) AnnData format on s3 in the exact format as presented on Cell Annotation Platform (CAP). Each link below is a public s3 URL to download the respective dataset.
 
