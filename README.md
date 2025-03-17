@@ -8,11 +8,11 @@ OVERVIEW AND LINKS TO CAP RESOURCES
 
 HOW TO GET ACCESS (email Nelson / Trgyve?)
 
-* Cross-species Spinal Cord Atlas: `https://celltype.info/project/598/dataset/1364`
-* Cross-species Spinal Cord: GABAergic: `https://celltype.info/project/598/dataset/1361`
-* Cross-species Spinal Cord: Glutamatergic: `https://celltype.info/project/598/dataset/1362`
-* Cross-species Spinal Cord: Cholinergic: `https://celltype.info/project/598/dataset/1360`
-* Cross-species Spinal Cord: Non-Neurons: `https://celltype.info/project/598/dataset/1363`
+* [Cross-species Spinal Cord Atlas](https://celltype.info/project/598/dataset/1364)
+* [Cross-species Spinal Cord: GABAergic](https://celltype.info/project/598/dataset/1361)
+* [Cross-species Spinal Cord: Glutamatergic](https://celltype.info/project/598/dataset/1362)
+* [Cross-species Spinal Cord: Cholinergic](https://celltype.info/project/598/dataset/1360)
+* [Cross-species Spinal Cord: Non-Neurons](https://celltype.info/project/598/dataset/1363)
 
 ## Data
 
