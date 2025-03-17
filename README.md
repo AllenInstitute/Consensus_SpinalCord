@@ -4,7 +4,8 @@ To create a consensus atlas and nomenclature of spinal cord across species, we h
 
 ## CAP
 
-![image](https://github.com/user-attachments/assets/75081a7a-a3a1-4e47-9fa6-f5604587018b)
+![image](https://github.com/user-attachments/assets/10a6ade5-99c4-4fa4-b850-0e76ba879ee8)
+
 
 To facilitate collaborative annotation with members of the spinal cord community we are using the Cell Annotation Platform ([CAP](https://celltype.info/)) to put our work into the hands of spinal cord researchers to provide feedback, thoughts and expert information about the consensus nomeclature system being proposed. 
 
