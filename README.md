@@ -18,12 +18,9 @@ This repository is a central resource for annotators collaborating on a cross-sp
 - **[Cell type metadata](URL)** including marker genes and anatomical distributions.
 - **[Spatial distributions](URL)** of consensus cell types in mouse spinal cord.
 
----
-
 ## Cell Annotation Platform (CAP)
 
 ![image](https://github.com/user-attachments/assets/10a6ade5-99c4-4fa4-b850-0e76ba879ee8)
-
 
 To facilitate collaborative annotation with members of the spinal cord community we are using the Cell Annotation Platform ([CAP](https://celltype.info/)) to put our work into the hands of spinal cord researchers to provide feedback, thoughts and expert information about the consensus nomeclature system being proposed. 
 
@@ -37,8 +34,6 @@ We have provided the Consensus Cross-species Taxonomy as an integrated object co
 
 The main [Cell Annotation Platform project](https://celltype.info/project/598) requires an invite to access. If you are interested please reach out to either Nelson Johansen (nelson.johansen@alleninstitute.org) or Trygve Bakken (trygveb@alleninstitute.org).
 
----
-
 ## Allen Institute Taxonomy (AIT) data files
 
 Single-nuclei RNA sequencing data is being hosted in [Allen Institute Taxonomy (AIT)](https://github.com/AllenInstitute/AllenInstituteTaxonomy) AnnData format on s3 in the exact format as presented on Cell Annotation Platform (CAP). Each link below is a public s3 URL to download the respective dataset.
@@ -48,8 +43,6 @@ Single-nuclei RNA sequencing data is being hosted in [Allen Institute Taxonomy (
    * [Cross-species Spinal Cord: Glutamatergic](https://released-taxonomies-802451596237-us-west-2.s3.us-west-2.amazonaws.com/CAP/SpinalCord/AIBS_SpC_Consensus_AIT_CAP_subset_Glutamatergic.h5ad)
    * [Cross-species Spinal Cord: Cholinergic](https://released-taxonomies-802451596237-us-west-2.s3.us-west-2.amazonaws.com/CAP/SpinalCord/AIBS_SpC_Consensus_AIT_CAP_subset_Cholinergic.h5ad)
    * [Cross-species Spinal Cord: Non-Neurons](https://released-taxonomies-802451596237-us-west-2.s3.us-west-2.amazonaws.com/CAP/SpinalCord/AIBS_SpC_Consensus_AIT_CAP_subset_Non-Neurons.h5ad)
-
----
 
 ## Analysis
 
