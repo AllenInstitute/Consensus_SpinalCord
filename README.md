@@ -4,9 +4,7 @@ To create a consensus atlas and nomenclature of spinal cord across species, we h
 
 ## CAP
 
-OVERVIEW AND LINKS TO CAP RESOURCES
-
-HOW TO GET ACCESS (email Nelson / Trgyve?)
+To facilitate collaborative annotation with members of the spinal cord community we are using the Cell Annotation Platform (CAP) to put our work into the hands of spinal cord researchers to provide feedback, thoughts and expert information about the consensus nomeclature system being proposed. The main Cell Annotation Platform project: https://celltype.info/project/598 requires an invite to access. If you are interested please reach out to either Nelson Johansen (nelson.johansen@alleninstitute.org) or Trygve Bakken (trygveb@alleninstitute.org).
 
 * [Cross-species Spinal Cord Atlas](https://celltype.info/project/598/dataset/1364)
    * [Cross-species Spinal Cord: GABAergic](https://celltype.info/project/598/dataset/1361)
