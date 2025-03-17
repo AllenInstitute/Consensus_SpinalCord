@@ -2,7 +2,7 @@
 
 To create a consensus atlas and nomenclature of spinal cord across species, we have performed 10X Multiome and RNA-seq across the entire Macaque and Mouse cord as well as Human cervical and lumbar segments.
 
-## CAP
+## Cell Annotation Platform (CAP)
 
 ![image](https://github.com/user-attachments/assets/10a6ade5-99c4-4fa4-b850-0e76ba879ee8)
 
