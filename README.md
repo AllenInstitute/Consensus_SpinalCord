@@ -10,7 +10,6 @@ This repository is a central resource for annotators collaborating on a cross-sp
 
 ### How to Participate:
 - **Annotate draft cross-species cell types** based on snRNA-seq in the [Cell Annotation Platform (CAP)](URL).
-    - If you would like to request access please email either Nelson Johansen (nelson.johansen@alleninstitute.org) or Trgyve Bakken (trygveb@alleninstitute.org)
 - **Deadline April 16** when a virtual meeting will be held to discuss annotation progress.
 
 ### Additional Resources:
