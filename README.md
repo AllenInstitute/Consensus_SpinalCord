@@ -8,18 +8,18 @@ OVERVIEW AND LINKS TO CAP RESOURCES
 
 HOW TO GET ACCESS (email Nelson / Trgyve?)
 
+* Cross-species Spinal Cord Atlas: `https://celltype.info/project/598/dataset/1364`
+* Cross-species Spinal Cord: GABAergic: `https://celltype.info/project/598/dataset/1361`
+* Cross-species Spinal Cord: Glutamatergic: `https://celltype.info/project/598/dataset/1362`
+* Cross-species Spinal Cord: Cholinergic: `https://celltype.info/project/598/dataset/1360`
+* Cross-species Spinal Cord: Non-Neurons: `https://celltype.info/project/598/dataset/1363`
+
 ## Data
 
-Sequencing data is in AIT (LINK) .h5ad format. ... EXPLAIN MORE ...
+Single-nuclei RNA sequencing data is being hosted in [Allen Institute Taxonomy (AIT)](https://github.com/AllenInstitute/AllenInstituteTaxonomy) AnnData format on s3 in the exact format as presented on Cell Annotation Platform (CAP).
 
-### RNA-seq 
-
-Stored in s3 here ... FILL IN ...
-
-* Macaque: `manuscript/RNA/Macaque_harmonized_20250224.h5ad`
-* Human: `manuscript/RNA/Human_harmonized_20250224.h5ad`
-* Mouse: `manuscript/RNA/Mouse_harmonized_20250224.h5ad`
-* ConsensusTaxonomy: `manuscript/RNA/AIBS_SpC_consensus_taxonomy_harmonized_20250224.h5ad`
-* AllStudyIntegration: ``
-* External: `external/`
-* External (Re-Aligned): `external-realigned/`
+* Cross-species Spinal Cord Atlas: `manuscript/RNA/Mouse_harmonized_20250224.h5ad`
+* Cross-species Spinal Cord: GABAergic: `manuscript/RNA/AIBS_SpC_consensus_taxonomy_harmonized_20250224.h5ad`
+* Cross-species Spinal Cord: Glutamatergic: ``
+* Cross-species Spinal Cord: Cholinergic: `external/`
+* Cross-species Spinal Cord: Non-Neurons: `external-realigned/`
