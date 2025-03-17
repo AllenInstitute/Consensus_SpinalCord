@@ -9,7 +9,7 @@ This repository is a central resource for annotators collaborating on a cross-sp
 - **Reorganize** and refine clusters into biologically meaningful hierarchical groups.
 
 ### How to Participate:
-- **Annotate draft cross-species cell types** based on snRNA-seq in the [Cell Annotation Platform (CAP)](URL).
+- **Annotate draft cross-species cell types** based on snRNA-seq in the [Cell Annotation Platform (CAP)](https://celltype.info/project/598).
 - **Deadline April 16** when a virtual meeting will be held to discuss annotation progress.
 
 ### Additional Resources:
