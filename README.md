@@ -6,8 +6,6 @@ To create a consensus atlas and nomenclature of spinal cord across species, we h
 
 To facilitate collaborative annotation with members of the spinal cord community we are using the Cell Annotation Platform ([CAP](https://celltype.info/)) to put our work into the hands of spinal cord researchers to provide feedback, thoughts and expert information about the consensus nomeclature system being proposed. 
 
-The main [Cell Annotation Platform project](https://celltype.info/project/598) requires an invite to access. If you are interested please reach out to either Nelson Johansen (nelson.johansen@alleninstitute.org) or Trygve Bakken (trygveb@alleninstitute.org).
-
 We have provided the Consensus Cross-species Taxonomy as an integrated object containing nuclei/cells from Human, Macaque and Mouse as a complete Atlas and various sib-groupings of taxonomic terms to provide a higher-resolution view of each Class of cell types.
 
 * [Cross-species Spinal Cord Atlas](https://celltype.info/project/598/dataset/1364)
@@ -15,6 +13,8 @@ We have provided the Consensus Cross-species Taxonomy as an integrated object co
    * [Cross-species Spinal Cord: Glutamatergic](https://celltype.info/project/598/dataset/1362)
    * [Cross-species Spinal Cord: Cholinergic](https://celltype.info/project/598/dataset/1360)
    * [Cross-species Spinal Cord: Non-Neurons](https://celltype.info/project/598/dataset/1363)
+
+The main [Cell Annotation Platform project](https://celltype.info/project/598) requires an invite to access. If you are interested please reach out to either Nelson Johansen (nelson.johansen@alleninstitute.org) or Trygve Bakken (trygveb@alleninstitute.org).
 
 ## Data
 
