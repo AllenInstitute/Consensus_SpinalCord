@@ -15,7 +15,6 @@ This repository is a central resource for annotators collaborating on a cross-sp
 ### Additional Resources:
 - **[CAP Orientation Videos](https://www.youtube.com/playlist?list=PLKRocgU6P8sIXJKtoyhBtOm38sMH1Z7gq)** led by Evan Biederstedt
 - **[Cell type metadata](https://docs.google.com/spreadsheets/d/1Pj1tI77L_GdCqj-liaCUFvvwlEDBkyj-QMRhVe9jFf0/edit?usp=sharing)** including marker genes and anatomical distributions.
-- **[Spatial distributions](URL)** of consensus cell types in mouse and macaque spinal cord available to BICAN members.
 
 ## Cell Annotation Platform (CAP)
 
