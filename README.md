@@ -21,7 +21,7 @@ This repository is a central resource for annotators collaborating on a cross-sp
 
 ![image](https://github.com/user-attachments/assets/10a6ade5-99c4-4fa4-b850-0e76ba879ee8)
 
-To facilitate collaborative annotation with members of the spinal cord community we are using the Cell Annotation Platform ([CAP](https://celltype.info/)) to put our work into the hands of spinal cord researchers to provide feedback, thoughts and expert information about the consensus nomeclature system being proposed. 
+To facilitate collaborative annotation with members of the spinal cord community we are using the Cell Annotation Platform ([CAP](https://celltype.info/)) to put our work into the hands of spinal cord researchers who can provide feedback, thoughts and expert information about the consensus nomeclature system being proposed. 
 
 We have provided the Consensus Cross-species Taxonomy as an integrated object containing nuclei/cells from Human, Macaque and Mouse as a complete Atlas and various sub-groupings of taxonomic terms to provide a higher-resolution view for each Class of cell types.
 
@@ -31,7 +31,11 @@ We have provided the Consensus Cross-species Taxonomy as an integrated object co
    * [Cross-species Spinal Cord: Cholinergic](https://celltype.info/project/598/dataset/1360)
    * [Cross-species Spinal Cord: Non-Neurons](https://celltype.info/project/598/dataset/1363)
 
-The main [Cell Annotation Platform project](https://celltype.info/project/598) requires an invite to access. If you are interested please reach out to either Nelson Johansen (nelson.johansen@alleninstitute.org) or Trygve Bakken (trygveb@alleninstitute.org).
+If you have any questions or requests please reach out to either Nelson Johansen (nelson.johansen@alleninstitute.org) or Trygve Bakken (trygveb@alleninstitute.org).
+
+## Conserved Marker Analysis
+
+Computational identificaiton of conserved marker genes across Macaque and Mouse is described (and stored) at https://github.com/AllenInstitute/Consensus_SpinalCord/tree/main/conserved_marker_analysis. 
 
 ---
 
