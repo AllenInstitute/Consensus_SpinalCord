@@ -34,7 +34,7 @@ If you have any questions or requests please reach out to either Nelson Johansen
 
 ## Conserved Marker Analysis
 
-Computational identificaiton of conserved marker genes across Macaque and Mouse is described (and stored) at https://github.com/AllenInstitute/Consensus_SpinalCord/tree/main/conserved_marker_analysis. 
+Computational identificaiton of conserved marker genes across Macaque and Mouse is described (and stored) in this GitHub under [conserved_marker_analysis]( https://github.com/AllenInstitute/Consensus_SpinalCord/tree/main/conserved_marker_analysis). 
 
 ---
 
