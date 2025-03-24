@@ -9,11 +9,13 @@ This repository is a central resource for annotators collaborating on a cross-sp
 - **Reorganize** and refine clusters into biologically meaningful hierarchical groups.
 
 ### How to Participate:
-- **Annotate draft cross-species cell types** based on snRNA-seq in the [Cell Annotation Platform (CAP)](https://celltype.info/project/598).
+- [**Create a profile**](https://celltype.info/docs/creating-a-profile) for the Cell Annotation Platform (CAP).
+- [**Load the draft CAP atlas**](https://celltype.info/project/598) and click on "Molecular Data".
+- [**Provide feedback**](https://celltype.info/docs/providing-feedback-on-annotations) on annotations in the [**Molecular Data Overview**](https://celltype.info/docs/molecular-data-page-overview).
 - **Deadline April 16** when a virtual meeting will be held to discuss annotation progress.
 
 ### Additional Resources:
-- **[CAP Orientation Videos](https://www.youtube.com/playlist?list=PLKRocgU6P8sIXJKtoyhBtOm38sMH1Z7gq)** led by Evan Biederstedt
+- **[CAP Orientation Videos](https://www.youtube.com/playlist?list=PLKRocgU6P8sIXJKtoyhBtOm38sMH1Z7gq)** led by Evan Biederstedt.
 - **[Cell type metadata](https://docs.google.com/spreadsheets/d/1Pj1tI77L_GdCqj-liaCUFvvwlEDBkyj-QMRhVe9jFf0/edit?usp=sharing)** including marker genes and anatomical distributions.
 
 ## Cell Annotation Platform (CAP)
