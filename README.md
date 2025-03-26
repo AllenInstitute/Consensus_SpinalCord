@@ -27,9 +27,9 @@ To facilitate collaborative annotation with members of the spinal cord community
 We have provided the Consensus Cross-species Taxonomy as an integrated object containing nuclei/cells from Human, Macaque and Mouse as a complete Atlas and various sub-groupings of taxonomic terms to provide a higher-resolution view for each Class of cell types.
 
 * [Cross-species Spinal Cord Atlas](https://celltype.info/project/609/dataset/1410)
-   * [Cross-species Spinal Cord: GABAergic](https://celltype.info/project/598/dataset/1361)
-   * [Cross-species Spinal Cord: Glutamatergic](https://celltype.info/project/598/dataset/1362)
-   * [Cross-species Spinal Cord: Cholinergic](https://celltype.info/project/598/dataset/1360)
+   * [Cross-species Spinal Cord: GABAergic](https://celltype.info/project/609/dataset/1408)
+   * [Cross-species Spinal Cord: Glutamatergic](https://celltype.info/project/609/dataset/1409)
+   * [Cross-species Spinal Cord: Cholinergic](https://celltype.info/project/609/dataset/1412)
    * [Cross-species Spinal Cord: Non-Neurons](https://celltype.info/project/609/dataset/1411)
 
 If you have any questions or requests please reach out to either Nelson Johansen (nelson.johansen@alleninstitute.org) or Trygve Bakken (trygveb@alleninstitute.org).
